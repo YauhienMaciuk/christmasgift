@@ -1,0 +1,35 @@
+Отсортированный подарок по количеству сахара в конфете: 
+[
+Candies: type = CARAMEL, name = 'Korovka', weight = 10.0, quantitySugar = 7.5, 
+Candies: type = CARAMEL, name = 'Korovka', weight = 10.0, quantitySugar = 7.5, 
+Candies: type = CARAMEL, name = 'Korovka', weight = 10.0, quantitySugar = 7.5, 
+Candies: type = CARAMEL, name = 'Korovka', weight = 10.0, quantitySugar = 7.5, 
+Candies: type = CHOCOLATE, name = 'Bialowieza Forest', weight = 15.0, quantitySugar = 9.2, 
+Candies: type = CHOCOLATE, name = 'Bialowieza Forest', weight = 15.0, quantitySugar = 9.2, 
+Wafers: stuffed = true, name = 'lemon', weight = 50.0, quantitySugar = 22.0, 
+Wafers: stuffed = false, name = 'Turtles', weight = 70.0, quantitySugar = 31.2, 
+Wafers: stuffed = false, name = 'Turtles', weight = 70.0, quantitySugar = 31.2, 
+Wafers: stuffed = false, name = 'Turtles', weight = 70.0, quantitySugar = 31.2, 
+Wafers: stuffed = false, name = 'Turtles', weight = 70.0, quantitySugar = 31.2, 
+Wafers: stuffed = false, name = 'Turtles', weight = 70.0, quantitySugar = 31.2, 
+Wafers: stuffed = false, name = 'Turtles', weight = 70.0, quantitySugar = 31.2, 
+Chocolate: color = black, name = 'Alionka', weight = 90.0, quantitySugar = 40.0, 
+Chocolate: color = black, name = 'Alionka', weight = 90.0, quantitySugar = 40.0, 
+Chocolate: color = black, name = 'Alionka', weight = 90.0, quantitySugar = 40.0, 
+Chocolate: color = white, name = 'White bear', weight = 100.0, quantitySugar = 47.9, 
+Chocolate: color = white, name = 'White bear', weight = 100.0, quantitySugar = 47.9]
+
+Вес подарка в граммах: 1010.0
+Конфеты, которые содержат сахар в диапазоне от 30 до 50 грамм: 
+[
+Chocolate: color = black, name = 'Alionka', weight = 90.0, quantitySugar = 40.0, 
+Chocolate: color = black, name = 'Alionka', weight = 90.0, quantitySugar = 40.0, 
+Chocolate: color = white, name = 'White bear', weight = 100.0, quantitySugar = 47.9, 
+Wafers: stuffed = false, name = 'Turtles', weight = 70.0, quantitySugar = 31.2, 
+Wafers: stuffed = false, name = 'Turtles', weight = 70.0, quantitySugar = 31.2, 
+Wafers: stuffed = false, name = 'Turtles', weight = 70.0, quantitySugar = 31.2, 
+Wafers: stuffed = false, name = 'Turtles', weight = 70.0, quantitySugar = 31.2, 
+Wafers: stuffed = false, name = 'Turtles', weight = 70.0, quantitySugar = 31.2, 
+Chocolate: color = black, name = 'Alionka', weight = 90.0, quantitySugar = 40.0, 
+Chocolate: color = white, name = 'White bear', weight = 100.0, quantitySugar = 47.9, 
+Wafers: stuffed = false, name = 'Turtles', weight = 70.0, quantitySugar = 31.2]
